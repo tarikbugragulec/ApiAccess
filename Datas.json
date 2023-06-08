@@ -1,0 +1,25 @@
+{
+    "veriler": [
+      {
+        "isim": "Ürün 1",
+        "aciklama": "Bu ürün harika bir özelliğe sahiptir.",
+        "fotoURL": "https://example.com/foto1.jpg"
+      },
+      {
+        "isim": "Ürün 2",
+        "aciklama": "Bu ürün çok kullanışlıdır.",
+        "fotoURL": "https://example.com/foto2.jpg"
+      },
+      {
+        "isim": "Ürün 3",
+        "aciklama": "Bu ürün en son teknolojiyle üretilmiştir.",
+        "fotoURL": "https://example.com/foto3.jpg"
+      },
+      {
+        "isim": "Ürün 4",
+        "aciklama": "Bu ürün mükemmel bir tasarıma sahiptir.",
+        "fotoURL": "https://example.com/foto4.jpg"
+      }
+    ]
+  }
+  
