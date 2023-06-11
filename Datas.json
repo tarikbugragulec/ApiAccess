@@ -1,7 +1,7 @@
 {
-    "veriler": [
+    "Tokat": [
       {
-        "isim": "Ürün 1",
+        "isim": "Tokat Kalesi",
         "aciklama": "Bu ürün harika bir özelliğe sahiptir.",
         "fotoURL": "https://example.com/foto1.jpg"
       },
