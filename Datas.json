@@ -2,24 +2,24 @@
     "Tokat": [
       {
         "isim": "Tokat Kalesi",
-        "aciklama": "Bu ürün harika bir özelliğe sahiptir.",
+        "aciklama": "İlk defa 1074 yılında Danişmend Melik Ahmet Gazi tarafından fethedilen Kale kısa aralıklarla el değiştirmiş olup sırasıyla Danişmentli, Selçuklu, İlhanlı, Eratna, Kadı Burhanettin ve Osmanlı Devleti'nin egemenliğine geçmiştir. Dik ve sarp kayalar üzerine kurulu Kale, doğal bir hisar durumundadır.",
         "fotoURL": "https://upload.wikimedia.org/wikipedia/commons/f/f5/Elbrus.jpg"
       },
-      {
-        "isim": "Ürün 2",
-        "aciklama": "Bu ürün çok kullanışlıdır.",
-        "fotoURL": "https://example.com/foto2.jpg"
-      },
-      {
-        "isim": "Ürün 3",
-        "aciklama": "Bu ürün en son teknolojiyle üretilmiştir.",
-        "fotoURL": "https://example.com/foto3.jpg"
-      },
-      {
-        "isim": "Ürün 4",
-        "aciklama": "Bu ürün mükemmel bir tasarıma sahiptir.",
-        "fotoURL": "https://example.com/foto4.jpg"
-      }
+     {
+      "isim": "Gök Medrese",
+      "aciklama": "Gök Medrese, Tokat ilinde yer alan tarihi bir medresedir. 1274 yılında inşa edilmiş olan bu yapı, Selçuklu dönemine ait özellikleriyle dikkat çeker. Gök Medrese, mimari güzelliği ve tarihi önemiyle ziyaretçilerin ilgisini çeken bir turistik mekandır.",
+      "fotoURL": "https://www.kulturportali.gov.tr/repoKulturPortali/large/07022013/f4154dda-4ba8-41d7-96dc-0a0235668105.jpg?format=jpg&quality=50"
+    },
+    {
+      "isim": "Almus Barajı",
+      "aciklama": "Almus Barajı, Tokat ilinin Almus ilçesinde bulunan doğal güzellikleriyle ünlü bir sulama ve enerji barajıdır. Büyüleyici manzarası, yemyeşil doğası ve su sporları imkanlarıyla ziyaretçilere huzurlu bir ortam sunmaktadır.",
+      "fotoURL": "https://i.neredekal.com/i/neredekal/75/800x600/606390af457b012d3fdbefea"
+    },
+    {
+      "isim": "Ballıca Mağarası",
+      "aciklama": "Ballıca Mağarası, Tokat ilinin Niksar ilçesinde bulunan etkileyici bir doğal oluşumdur. Mağara içerisinde farklı sarkıt ve dikit oluşumları, yer altı nehirleri ve gölleri görülebilir. Doğa severler ve mağara keşfi yapmak isteyenler için ideal bir yerdir.",
+      "fotoURL": "https://i4.hurimg.com/i/hurriyet/75/1110x740/5f5641212269a221ecdc499e.jpg"
+    }
     ]
   }
   
